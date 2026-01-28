@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379442527742",
+    "project_id": "smartwed-b8a99",
+    "storage_bucket": "smartwed-b8a99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379442527742:android:66023294793827ce1c54af",
+        "android_client_info": {
+          "package_name": "com.smartwed.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs5wWamQ0njl30SnIveRk5S-GdrV28LuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
