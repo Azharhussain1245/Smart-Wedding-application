@@ -1,4 +1,4 @@
-# 💍 SmartWed – AI-Powered Wedding Planning App
+# 💍 SmartWed – Wedding Planning App
 
 **SmartWed** is a cross-platform mobile application built with **Flutter** and **Dart** using **Firebase** as the backend. It provides a complete wedding planning solution for couples, vendors, and admins. The app allows users to manage tasks, budgets, vendors, invitations, playlists, and includes an **AI chatbot** for real-time assistance. SmartWed uses **role-based access** to ensure secure and personalized experiences for every user.
 
@@ -45,7 +45,7 @@
 
 - **Frontend:** Flutter & Dart  
 - **Backend:** Firebase (Authentication, Cloud Firestore, Cloud Storage)  
-- **AI Integration:** OpenAI / Google AI Studio API  
+- **AI Integration:** use API  
 - **IDE:** Android Studio, VS Code  
 - **Version Control:** Git & GitHub  
 
@@ -80,3 +80,5 @@ git clone https://github.com/yourusername/smartwed.git
 cd smartwed
 flutter pub get
 flutter run
+if need any help email me 
+azharhussain1530@gmail.com
