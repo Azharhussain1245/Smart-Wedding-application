@@ -1,85 +1,82 @@
 # 💍 SmartWed – AI-Powered Wedding Planning App
 
-SmartWed is a mobile app built with Flutter and Dart using Firebase as the backend. It helps couples plan weddings by managing tasks, budgets, vendors, invitations, playlists, and provides real-time help through an AI chatbot. The app supports role-based access for Couples, Vendors, and Admins, ensuring secure and personalized experiences.
+**SmartWed** is a cross-platform mobile application built with **Flutter** and **Dart** using **Firebase** as the backend. It provides a complete wedding planning solution for couples, vendors, and admins. The app allows users to manage tasks, budgets, vendors, invitations, playlists, and includes an **AI chatbot** for real-time assistance. SmartWed uses **role-based access** to ensure secure and personalized experiences for every user.
 
 ---
 
-## Features
 
-**Couple:**
-- Wedding countdown
-- Task management (add, edit, delete)
-- Budget tracking
-- Vendor search and booking
-- Digital invitations
-- Playlist management
-- Booking history
-- AI chatbot support
 
-**Vendor:**
-- Profile and service management
-- Booking confirmation
-- Client request management
+---
 
-**Admin:**
-- Approve vendors
-- User management
-- Analytics and monitoring
-- System settings
-- Security control
+# Features
+
+ **Couple Module**
+- Wedding countdown to track remaining days
+- Task management: add, edit, delete, mark tasks as complete
+- Budget management: track total budget and expenses
+- Vendor booking: find vendors and manage bookings
+- Invitations: create and send digital invites
+- Playlist: download songs and create wedding playlists
+- Booking history: view all past bookings
+- AI chatbot support for instant guidance
+ **Vendor Module**
+- Profile management: add company and service details
+- Service listing: display all offered services
+- Booking management: confirm or reject bookings
+- Client interaction: communicate with couples
+- Payment integration (planned for future updates)
+
+### **Admin Module**
+- Approve or reject pending vendor registrations
+- Manage users: couples and vendors
+- View analytics for platform usage
+- Configure system settings
+- Ensure platform security and role-based access
+
+### **AI Chatbot**
+- Answer wedding-related questions instantly
+- Provide app guidance and task support
+- Available 24/7 for users
+- Enhances user experience and engagement
 
 ---
 
 ## Technology Stack
 
-SmartWed uses Flutter and Dart for cross-platform mobile development. Firebase handles authentication, real-time database, and cloud storage. The AI chatbot is integrated via OpenAI or Google AI Studio. Android Studio and VS Code are used for development, with Git and GitHub for version control.
+- **Frontend:** Flutter & Dart  
+- **Backend:** Firebase (Authentication, Cloud Firestore, Cloud Storage)  
+- **AI Integration:** OpenAI / Google AI Studio API  
+- **IDE:** Android Studio, VS Code  
+- **Version Control:** Git & GitHub  
 
----
-
-## Installation
-
-1. Clone the repository:  
-   `git clone https://github.com/yourusername/smartwed.git`
-2. Navigate to the project folder:  
-   `cd smartwed`
-3. Get dependencies:  
-   `flutter pub get`
-4. Run the app:  
-   `flutter run`
+SmartWed uses this stack for fast, secure, and scalable mobile development with real-time updates and AI-powered support.
 
 ---
 
 ## UML Diagrams
 
-- Use Case Diagram
-- Class Diagram
-- Sequence Diagram
-- Activity Diagram
-- Communication Diagram
-- State Diagram
-- Deployment Diagram
-- Component Diagram
+The system design is represented using standard UML diagrams:  
+- Use Case Diagram  
+- Class Diagram  
+- Sequence Diagram  
+- Activity Diagram  
+- Communication Diagram  
+- State Diagram  
+- Deployment Diagram  
+- Component Diagram  
 
 ---
 
-## Future Enhancements
+## Installation
 
-- Online payment integration
-- Event reminders
-- Advanced analytics
-- Multi-language support
-- Personalized AI suggestions
+### Prerequisites
+- Flutter SDK  
+- Android Studio or VS Code  
+- Firebase project setup  
 
----
-
-## Developers & Supervisor
-
-**Developers:** Azhar Hussain & Fehad Hassan  
-**Supervisor:** [Supervisor Name]  
-**Program:** BS Software Engineering
-
----
-
-## License
-
-For academic purposes only.
+### Steps
+```bash
+git clone https://github.com/yourusername/smartwed.git
+cd smartwed
+flutter pub get
+flutter run
