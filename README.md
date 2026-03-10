@@ -1,6 +1,6 @@
 # 💍 SmartWed – Wedding Planning App
 
-**SmartWed** is a cross-platform mobile application built with **Flutter** and **Dart** using **Firebase** as the backend. It provides a complete wedding planning solution for couples, vendors, and admins. The app allows users to manage tasks, budgets, vendors, invitations, playlists, and includes an **AI chatbot** for real-time assistance. SmartWed uses **role-based access** to ensure secure and personalized experiences for every user.
+**SmartWed** is a mobile application built with **Flutter** and **Dart** using **Firebase** as the backend. It provides a complete wedding planning solution for couples, vendors, and admins. The app allows users to manage tasks, budgets, vendors, invitations, playlists, and includes an **AI chatbot** for real-time assistance. SmartWed uses **role-based access** to ensure secure and personalized experiences for every user.
 
 ---
 
